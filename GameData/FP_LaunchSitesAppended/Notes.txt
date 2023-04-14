@@ -1,0 +1,2 @@
+Set Terrain Detail to High - things may appear misaligned otherwise.
+KSC++ inhibited by default, to re-enable remove "FP_LaunchSitesAppended/Patches/KSC++_instance_removal.cfg"
