@@ -35,7 +35,7 @@ The additions/Amendments are:
 
 ### Notes:
 
-* **Making History** DLC - this pack automagically detects if Making History is installed and makes the required alterations. If you have MH, it just adds the surrounding scenery. If you do not have MH, it also adds the launch pads and runways at Dessert Launch Site and Woomerang.
+* **Making History DLC** - this pack automagically detects if Making History is installed and makes the required alterations. If you have MH, it just adds the surrounding scenery. If you do not have MH, it also adds the launch pads and runways at Dessert Launch Site and Woomerang.
 * **KSC++** - As shipped, this mod will disable the KSC++ instances, and only add Lack's static models for Kerbal Konstructs to use. If you desire to ALSO have KSC++ display at KSC, simply remove `..\GameData\FP_LaunchSitesAppended\Patches\KSC++_Instance_removal.cfg` and the KSC++ scenery will appear.
 * **Static Duplication in the KK Static list** - If you dabble in placing scenery yourself, you may notice OSS items with the suffix "_g2" along with the original, these are clones made with Module Manager scripts which make a copy that uses the more advanced GrassColor2 module of Kerbal Konstructs for better texture matching with the terrain. I decided to make clones and update those in the off chance someone might download my pack who is already using the original version of the OSS structures, in order to not affect them in any way.
 * **KSC Extended** - KSC Extended adds a ton of content to KSC, but none of it is near the monolith. It also adds a new launch center. None of LSA's work conflicts with this. At KSC the hex pictured above is all that happens at KSC and I have no content anywhere near the Tundra Complex added by KSC Extended.
