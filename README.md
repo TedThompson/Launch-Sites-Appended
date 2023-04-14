@@ -44,7 +44,7 @@ The additions/Amendments are:
 @AlphaAsh  - Kerbal Konstructs    
 @Damon - Tundra Space Center    
 @Omega482 - OSSNTR    
-@sarbian & Ialdabaoth - Module Manager    
+@sarbian & @ialdabaoth - Module Manager    
 @Lack & @Aerospacer - KSC++ (Continued)    
 @Divico & @Stone Blue - KSC Floodlight model (updated version included with LSA)    
 @taniwha - Blender .mu plugin    
