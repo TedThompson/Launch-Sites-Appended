@@ -27,11 +27,11 @@ The additions/Amendments are:
 
 ### Dependencies:
 
-* Kerbal Konstruts
-* Module Manager
-* OSSNTR - Omega's Stockalike Structures: No Textures Required
-* Lack's KSC++ (This will be patched to NOT affect KSC, only add their Statics - Patch can be removed if desired, see notes for details)
-* Tundra Space Center (Not an actual Space Center, but a pack of great stockalike pads and models for KK)
+* [Kerbal Konstruts](https://forum.kerbalspaceprogram.com/index.php?/topic/204210-ksp-18-kerbal-konstructs-continued/)
+* [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-18x-112x-module-manager-422-june-18th-2022-the-heatwave-edition/)
+* [OSSNTR - Omega's Stockalike Structures: No Textures Required](https://forum.kerbalspaceprogram.com/index.php?/topic/169891-wip-omega482s-dev-thread-omegas-stockalike-structures-no-textures-required-alpha-now-available/)
+* [Lack's KSC++](https://github.com/TedThompson/KSC-Plus-Plus-Continued-Reissued) (This will be patched to NOT affect KSC, only add their Statics - Patch can be removed if desired, see notes for details)
+* [Tundra Space Center](https://forum.kerbalspaceprogram.com/index.php?/topic/174368-18-112-tundras-space-center-v20-december-18th-stockalike-ksc-launchpads/) (Not an actual Space Center, but a pack of great stockalike pads and models for KK)
 
 ### Notes:
 
