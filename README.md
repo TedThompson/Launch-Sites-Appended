@@ -1,5 +1,5 @@
 # Launch Sites Appended
-## a Kerbal Konstructs Scenery Pack
+## A Kerbal Konstructs Scenery Pack
 Launch Sites Appended is a scenery pack for Kerbal Konstructs. Once installed it will either amend (if you have the Making History DLC) or add new launch sites to KSP.
 
 ***For the very latest, see https://forum.kerbalspaceprogram.com/index.php?/topic/216527-112xlaunch-sites-appended-a-kerbal-konstructs-scenery-pack/***
