@@ -9,7 +9,7 @@ Launch Sites Appended is a scenery pack for Kerbal Konstructs. Once installed it
 Kerman's Start @ Dessert Launch Site
 
 |   |   |
-| --- | --- |
+| :---: | :---: |
 | ![](http://imgur.com/cM1rNkEm.png) | ![](http://imgur.com/YsXHnZDm.png) |
 | Woomerang | WayFinders |
 | ![](http://imgur.com/UgcSMQQm.png) | ![](http://imgur.com/zDhKu4Dm.png) |
