@@ -41,10 +41,10 @@ The additions/Amendments are:
 
 ### Credits:
 
-@AlphaAsh  - Kerbal Konstructs
-@Damon - Tundra Space Center
-@Omega482 - OSSNTR
-@sarbian & ialdaboath - Module Manager
-@Lack & @Aerospacer - KSC++ (Continued)
-@Divico & @Stone Blue - KSC Floodlight model (updated version included with LSA)
-@taniwha - Blender .mu plugin
+@AlphaAsh  - Kerbal Konstructs    
+@Damon - Tundra Space Center    
+@Omega482 - OSSNTR    
+@sarbian & ialdaboath - Module Manager    
+@Lack & @Aerospacer - KSC++ (Continued)    
+@Divico & @Stone Blue - KSC Floodlight model (updated version included with LSA)    
+@taniwha - Blender .mu plugin    
