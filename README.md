@@ -4,14 +4,14 @@ Launch Sites Appended is a scenery pack for Kerbal Konstructs. Once installed it
 
 ***For the very latest, see https://forum.kerbalspaceprogram.com/index.php?/topic/216527-112xlaunch-sites-appended-a-kerbal-konstructs-scenery-pack/***
 
-![](http://imgur.com/WYj0tajl.png)    
+[![Kerman's Start @ Dessert Launch Site](http://imgur.com/WYj0tajl.png)](https://i.imgur.com/WYj0taj.png)    
 Kerman's Start @ Dessert Launch Site
 
 |   |   |
 | :---: | :---: |
-| ![](http://imgur.com/cM1rNkEm.png) | ![](http://imgur.com/YsXHnZDm.png) |
+| [![Woomerang](http://imgur.com/cM1rNkEm.png)](https://i.imgur.com/cM1rNkE.png) | [![WayFinders](http://imgur.com/YsXHnZDm.png)](https://i.imgur.com/YsXHnZD.png) |
 | Woomerang | WayFinders |
-| ![](http://imgur.com/UgcSMQQm.png) | ![](http://imgur.com/zDhKu4Dm.png) |
+| [![KSC2](http://imgur.com/UgcSMQQm.png)](https://i.imgur.com/UgcSMQQ.png) | [![Kerbal Memorial @ KSC](http://imgur.com/zDhKu4Dm.png)](https://i.imgur.com/zDhKu4D.png) |
 | KSC2 | Kerbal Memorial @ KSC |
 
 ### Description:
